@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Go Meta Linter
 [![Build Status](https://travis-ci.org/alecthomas/gometalinter.svg)](https://travis-ci.org/alecthomas/gometalinter) [![Gitter chat](https://badges.gitter.im/alecthomas.svg)](https://gitter.im/alecthomas/Lobby)
 
@@ -363,3 +364,7 @@ compatible XML output format. It is triggered with `--checkstyle` flag:
 
 Checkstyle format can be used to integrate gometalinter with Jenkins CI with the
 help of [Checkstyle Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Checkstyle+Plugin).
+=======
+# latihan_commit
+Belajar git menggunakan file git orang lain
+>>>>>>> 9f28fe83990699264daf2cff923a7283740d81f0
